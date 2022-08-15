@@ -13,7 +13,7 @@ WIN = pygame.display.set_mode((WIDTH, WIDTH))
 
 fonte = pygame.font.SysFont("hack",50)
 
-pygame.display.set_caption("SkySearch Game")
+pygame.display.set_caption("Closest Pair Distance")
 
 global pos_line
 
