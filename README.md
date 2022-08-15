@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0111836  |  Luan Vasco Cavalcante |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0130889  |  Sávio Cunha de Carvalho |
 
 ## Sobre
 O objetivo do projeto é implementar e mostrar como funciona o algoritmo : Closest Pair Algorithm.
