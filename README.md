@@ -46,9 +46,3 @@ Instale as dependências com :
 Execute o algoritmo com o comando:
 
     python3 ClosestPair.py
-
-## Outros 
----
-
-
-
