@@ -17,16 +17,32 @@ O objetivo do projeto é implementar e mostrar como funciona o algoritmo : Close
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: C<br>
-**Framework**: ---<br>
-Precisa de um compilador de linguagem C.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Linguagem**: Python<br>
+**Framework**: Pygame---<br>
 
 
+## Uso
 
+Para começar, clone o repositório com :
 
+    git clone https://github.com/projeto-de-algoritmos/D-C_ClosestPair.git
+
+Entre na pasta do repositório com o comando :
+  
+    cd D-C_ClosestPair
+
+Para criar teu ambiente virtual:
+    
+    python3 -m venv venv
+
+Ative teu ambiente virtual:
+  
+    source venv/bin/activate
+    
+Instale as dependências com :
+
+    pip install -r requirements.txt
+  
+Execute o algoritmo com o comando:
+
+    python3 ClosestPair.py
