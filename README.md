@@ -18,8 +18,9 @@ O objetivo do projeto é implementar e mostrar como funciona o algoritmo : Close
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 <table>
     <tr>
-        <td><img src="/Screenshot1.png" width="300"></td>
-        <td><img src="/Screenshot3.png" width="300"></td>
+        <td><img src="/Screenshot1.png" width="250"></td>
+        <td><img src="/Screenshot2.png" width="250"></td>
+        <td><img src="/Screenshot3.png" width="250"></td>
     </tr>
 </table>
 
