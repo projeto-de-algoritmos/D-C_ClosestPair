@@ -1,7 +1,8 @@
 # Closest Pair Algorithm
 
-**Número da Lista**: 4
-**Conteúdo da Disciplina**: Dividir e Conquistar<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: 
+Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -15,10 +16,16 @@ O objetivo do projeto é implementar e mostrar como funciona o algoritmo : Close
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+<table>
+    <tr>
+        <td><img src="/Screenshot1.png" width="300"></td>
+        <td><img src="/Screenshot3.png" width="300"></td>
+    </tr>
+</table>
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: Pygame---<br>
+**Framework**: Pygame<br>
 
 
 ## Uso
