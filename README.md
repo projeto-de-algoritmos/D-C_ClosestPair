@@ -12,6 +12,7 @@ Dividir e Conquistar<br>
 
 ## Sobre
 O objetivo do projeto é implementar e mostrar como funciona o algoritmo : Closest Pair Algorithm.
+Quando iniciado a aplicação, escolha uma dificuldade. Aperte 'r' e depois aperte espaço.
 
 
 ## Screenshots
@@ -54,3 +55,5 @@ Instale as dependências com :
 Execute o algoritmo com o comando:
 
     python3 ClosestPair.py
+    
+Assim que abrir a tela, escolha uma dificuldade. Quando a malha quadriculada aparecer, você pode selecionar os pontos manualmente clicando com o mouse ou apertar r para pontos aleatórios. Para lançar o algoritmo, basta apertar espaço.
