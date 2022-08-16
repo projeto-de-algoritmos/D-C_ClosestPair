@@ -31,7 +31,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Uso
 
-Para começar, clone o repositório com :
+Para começar, clone o repositório com:
 
     git clone https://github.com/projeto-de-algoritmos/D-C_ClosestPair.git
 
